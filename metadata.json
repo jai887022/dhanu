@@ -1,0 +1,6 @@
+{
+  "name": "VOX. Minimalist Studio",
+  "description": "A high-fidelity minimalist portfolio and studio journal featuring Nordic design, exhibitions, client casework, and curated aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
